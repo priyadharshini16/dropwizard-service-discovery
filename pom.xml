@@ -118,7 +118,7 @@
         <guava.version>30.1.1-jre</guava.version>
         <junit.version>4.13.1</junit.version>
         <ranger.version>0.6.3</ranger.version>
-        <curator.version>4.2.0</curator.version>
+        <curator.version>5.1.0</curator.version>
     </properties>
 
     <dependencyManagement>
